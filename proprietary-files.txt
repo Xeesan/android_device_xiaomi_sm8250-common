@@ -178,7 +178,6 @@ vendor/lib64/hw/vendor.xiaomi.hardware.displayfeature@1.0-impl.so
 vendor/bin/displayfeature
 vendor/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so
 vendor/lib64/libclient2slpi.notifier.so
-vendor/lib64/libqservice.so
 vendor/lib64/libdisplayfeature.so
 vendor/lib64/libdisplayfeatureservice.so
 
